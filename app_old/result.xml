@@ -1,0 +1,2189 @@
+<?xml version="1.0"?>
+<WS_WWW_NTA_TS_RESPONSE>
+    <WS_ERROR_INFO>
+        <WS_ERROR_CODE>0</WS_ERROR_CODE>
+        <WS_ERROR_CATEGORY>0</WS_ERROR_CATEGORY>
+        <WS_ERROR_MESSAGE/>
+    </WS_ERROR_INFO>
+    <WS_RESPONSE>
+        <QUICK_START>
+            <JUMP_TO_STATE>003 - QuantityChoice</JUMP_TO_STATE>
+            <COMPLEXES>
+                <COMPLEX>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_ID/>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Groenendaallaan 394</COMP_ADDR>
+                    <COMP_CITY>ANTWERPEN</COMP_CITY>
+                    <COMP_ID>METRO</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Antwerpen</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)3 544 36 00</COMP_TEL>
+                    <COMP_ZIP>2030</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR/>
+                    <COMP_CITY/>
+                    <COMP_ID>KBRG</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Brugge</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL/>
+                    <COMP_ZIP/>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Eeuwfeestlaan 20</COMP_ADDR>
+                    <COMP_CITY>BRUSSEL/BRUXELLES</COMP_CITY>
+                    <COMP_ID>KBRU</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Brussel/Bruxelles</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)2 474 26 00</COMP_TEL>
+                    <COMP_ZIP>1020</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Ter Platen 12</COMP_ADDR>
+                    <COMP_CITY>GENT</COMP_CITY>
+                    <COMP_ID>DECA</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Gent</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)9 265 06 00</COMP_TEL>
+                    <COMP_ZIP>9000</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Universiteitlaan 11</COMP_ADDR>
+                    <COMP_CITY>HASSELT</COMP_CITY>
+                    <COMP_ID>KHAS</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Hasselt</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)11 29 86 21</COMP_TEL>
+                    <COMP_ZIP>3500</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Boulevard de France</COMP_ADDR>
+                    <COMP_CITY>BRAINE L'ALLEUD</COMP_CITY>
+                    <COMP_ID>KBRAI</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis ImagiBraine</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)2 389 17 17</COMP_TEL>
+                    <COMP_ZIP>1420</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>President Kennedylaan 100a</COMP_ADDR>
+                    <COMP_CITY>KORTRIJK</COMP_CITY>
+                    <COMP_ID>KKOR</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Kortrijk</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)56 26 66 66</COMP_TEL>
+                    <COMP_ZIP>8500</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Bondgenotenlaan 145-149</COMP_ADDR>
+                    <COMP_CITY>LEUVEN</COMP_CITY>
+                    <COMP_ID>SL</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Leuven</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)16 31 96 00</COMP_TEL>
+                    <COMP_ZIP>3000</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Chauss&#xE9;e de Tongres 200</COMP_ADDR>
+                    <COMP_CITY>LIEGE (ROCOURT)</COMP_CITY>
+                    <COMP_ID>KLUIK</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Li&#xE8;ge</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)4 224 66 00</COMP_TEL>
+                    <COMP_ZIP>4000</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Koningin Astridlaan 12</COMP_ADDR>
+                    <COMP_CITY>OOSTENDE</COMP_CITY>
+                    <COMP_ID>KOOST</COMP_ID>
+                    <COMP_INT_NAME>Kinepolis Oostende</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL/>
+                    <COMP_ZIP>8400</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+                <COMPLEX>
+                    <COMP_ADDR>Chauss&#xE9;e de Tongres 200</COMP_ADDR>
+                    <COMP_CITY>Li&#xE8;ge</COMP_CITY>
+                    <COMP_ID>PAL</COMP_ID>
+                    <COMP_INT_NAME>Palace Li&#xE8;ge</COMP_INT_NAME>
+                    <COMP_SALES_OPEN>1</COMP_SALES_OPEN>
+                    <COMP_TEL>+32 (0)4 224 66 00</COMP_TEL>
+                    <COMP_ZIP>4000</COMP_ZIP>
+                    <COU_ID>BE</COU_ID>
+                    <COMP_ALLOW_STUDS>1</COMP_ALLOW_STUDS>
+                    <COMP_ALLOW_REDUCTION>1</COMP_ALLOW_REDUCTION>
+                    <COMP_ACCEPT_VOUCHER>1</COMP_ACCEPT_VOUCHER>
+                    <COMP_THREE_D_GLASSES>0</COMP_THREE_D_GLASSES>
+                    <COMP_ALLOW_KIDS>0</COMP_ALLOW_KIDS>
+                    <COMP_USES_PARKING>0</COMP_USES_PARKING>
+                    <COMP_CURRENCY>EUR</COMP_CURRENCY>
+                </COMPLEX>
+            </COMPLEXES>
+            <COMPLEX_SCHEDULE VERSION="0">
+                <SCHEDULE_DAYS>
+                    <DAY DATE="20130703" LATEST_FEATURE_DATE="20130703">
+                        <FEATURES>
+                            <FEATURE ID="247152" NAT_ID="55820" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="OV3D">
+                                <NAME>3D OV DESPICABLE ME 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>17:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="60EED0A98B7FFC6BC8A88056A8E1F3D9824CEDF5"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="E08D2822376E3E89397D2A53544472CF93A0542F"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="183B3217E6F36BB71883DB117FDCE95E199D6815"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="AAE3FD6802E82A1DFFF2E47D3AEC5C31F88BA527"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246991" NAT_ID="55796" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="OV3D">
+                                <NAME>3D OV MAN OF STEEL</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="199" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="3" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>17:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="E102313C7736180AE24D457A325D3A0A30549D77"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="95736E67804BF4744D54B126926DE73718210A67"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="1C837C139A1C908913C323A6AB5C44101EF2053B"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="6B9AC5C0EBD7A4661FB28F0EA8AEE40DB81124E4"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>22:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="0AA114B4EE3B3149827ACDC36C7AC02B3FE3A842"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="DC1D98F1EFAFC7AE024F27E15212062C20A499E9"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="1ECEC2BBDD8B5E4839881D9D884F38064D0902D8"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="19334EE2EAB540D6857C6C5C829007AB888EE857"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="248352" NAT_ID="55964" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="OV3D">
+                                <NAME>3D OV WORLD WAR Z</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>17:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="6A890E98191930DE7BB67938D14869F68257A3E5"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="2AC089A1F696FEC1337F008679CB8CF67966E877"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="8A68CB75CF3FE995EB8302B2F03A8F8391A5C886"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="8D3B3BFA239C6301AB785159709CC63C29702A8D"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>22:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="7F6291292BF9422827193E8DA81099E9524C5FF4"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="754AD959D3B72702365C8034DE5696BEC5E2BBE7"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="94EBE5DDFF1A15A48500253FC3DAA31042D10675"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="AB4879676D204D0A605741370494C28628A2AEDE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247320" NAT_ID="55839" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>AP NV MONSTERS UNIVERSITY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="1" TYPE="XAP12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>14:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="6D4E6003A46820502A52F34F21224B2CA321C50D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="CAA51EC20E5C61C9608795F4A26D6B2C3DA0E27F"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="3A2CA24C428726C974B482965589EDE05A1629D1"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="6932A40F6D20EC89441D38E2CF94E20077FC1762"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="244628" NAT_ID="55495" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>LADIES NL THE HEAT</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="245" OCCUPATION_PERCENTAGE="52" PERF="3" HALL_NAME="8" TYPE="XLA06" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="LADY" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>19:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="698" CODE="AADV" HASH="15F44AA50045097D92582A0A5920455D179B31D5"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="698" CODE="AADV" HASH="15F44AA50045097D92582A0A5920455D179B31D5"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="698" CODE="AADV" HASH="15F44AA50045097D92582A0A5920455D179B31D5"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="698" CODE="AADV" HASH="15F44AA50045097D92582A0A5920455D179B31D5"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246914" NAT_ID="55789" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV EPIC</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="196" OCCUPATION_PERCENTAGE="2" PERF="1" HALL_NAME="2" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="9A9EA77A6B0B8983E092CEB662B469608036E551"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="D867E005DE694EC70C7D23364BAF6017228038E9"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="99354FB2ED9211B4284BB92C42FAA46861F48A6D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="F0A8CE5E7917CF37A992096897ACDB0EFE77A3EC"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="240085" NAT_ID="54863" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV PIET PIRAAT EN HET ZEE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="245" OCCUPATION_PERCENTAGE="2" PERF="1" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="1F24ECF81B85B2F434B523F87BAB356F62D725FD"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="98CAAC3C2CB3F6633E3CE2B905A4089B3EAFA97A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="D8BA00FB1E1FC70ED27C024E73816BDA2A451C39"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="7BE07DFC75565FF8679C6D1296DA37169CCE7278"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>17:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="FFD716FF9A9EAA0BA2E8A9B492A520287B71E609"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="37D4F6EACD2E90D8164D0D9942D7BF9C29F18840"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="AFA1814D2128C909078D915999F9CBA1EE245BBF"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="10237BAE861687C7E6FC0643EDB62685F14317A3"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="233880" NAT_ID="53805" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV THE BROKEN CIRCLE BREA</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="E709DF2696678E5FCAEAA207B8A18591F2536FCB"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="ECC33AD740A69B75FD6C98D68D8DB81FBFD70FBD"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="30C9199C87F2136591D2E6C971912867CB9AA748"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="411BF88715EAAC85DD7611DB72BABBDDF4A95DB0"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247141" NAT_ID="55819" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV VERSCHRIKKELIJKE 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="513" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="4BA8049D8D03D753A3A45FFFA93DFF9D4AD1F087"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="53A8568ACE2F5FE3FCD71BEB708E0A9E4CEF0C46"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="198487BD545C7BC462EE3340F9968D39D04A9DBA"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="58FC04136309E3F7F3C2315A558F025D66389C57"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="198" OCCUPATION_PERCENTAGE="1" PERF="2" HALL_NAME="2" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>16:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="331C71CCC55E67361E9199E641ABA28D729E087A"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="288DC00CE8540219234E8A0B267BA05FA423EB5A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="07B90770BF484DF6705A720567496E49C99844B1"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="827092DD956E91419E34618630025E8B1250B7CD"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235202" NAT_ID="54032" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV AFTER EARTH</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="4" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>4</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="AC36622357AA1A44568F7D3373FDAB6EA59061D7"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="86D9C7E234FEEA9D3D6CFD740F435B33A09AE887"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="CAF9B7CED6AC4D1E6FC576739A2B5FCA4D309F4D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="0104ED45B04FCB6A145716330587818A0DC4EE70"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>20:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="A02DD101882B27B3429D3C11A9EB6AF61D31D362"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="82560B327F160B7FC9247F17852140D98F10D45B"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="8BDCAD8BCA461A0CC3654CA6F17448A6324CE206"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="C5F21772C246F2BFFD95B85A18CC1A042609634C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="223850" NAT_ID="52153" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV DESPICABLE ME 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="2" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>22:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="114FFC3B5FEFE0A304BADA02D1682A0746B6AECE"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="A0AA3D7BB388497DA99901B2E5DBF1278EFE6B2A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="293B5453B2679C20358F8EEE2CABD782C6413EB2"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="921B0A5A54EA3D1234E9B9780EB2D381BC40FC25"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235154" NAT_ID="54023" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV FAST AND FURIOUS 6</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="2" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>19:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="EDEFAD8E680FBC0B21726EDCECFBBCCAC6562078"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="9C4769A3889A8FC836E5FF51EF91935775BB1EBA"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="58C5E56EF0853896E0D99E90B0DDE6F8E37A1ACE"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="5855701FF70C8ABACBB8911661D51EC11CC30EA8"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246838" NAT_ID="55781" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV MAN OF STEEL</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="3" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>13:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="405760F5A2173BEBBD4312592BB541261FB0A0C1"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="549E955E95A9DBFE09DBCFAF8437B3D7ED323F35"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="E577AE6D7680C4D2733643B6A09F6AEDA20F564B"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="4D5057A77BF7226D4803B4AA9864B686A43ABF1B"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="197" OCCUPATION_PERCENTAGE="1" PERF="3" HALL_NAME="3" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>20:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="1025093D6EA6F23BB8122324673A1290CFC67C11"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="C0DB24D4D5BC7E148A5EB7F9DE0D4CE7C60EF108"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="75BF01CD46816B99BCCD84ED7C686721C42D8244"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="E785176385D4CDAB5A9199E4205500E5F56A4257"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="229463" NAT_ID="53071" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="4" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>4</HALL>
+                                        <TIME>20:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="4FB15921C39F1E1ADFF605FB51E88F4A277D6B2D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="73D72C10F141EF3913D7EEBF25E19204E3204351"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="9122E317D7B74BC7E5B044144D8D9121DADBFB7F"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="A968DE721AEE1EC4D7C253173B42F88675AB6725"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235170" NAT_ID="54026" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE HANGOVER 3</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="4" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>4</HALL>
+                                        <TIME>16:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="2B1F4B9BF07AF2E742CBBE7B55675609ED8E85F1"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="EA3575051EA98942DEB89DBF802B1B885DF8E899"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="C0BD94CCF7EA3E8F590B27D7082933CA98173CE7"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="06B45A0E528B0D6BCA89BD0D726AC493C782B710"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246025" NAT_ID="55689" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE INTERNSHIP</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="CAD2275AEBB9C70B8C978BC689DF977193A353C1"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="B37CA8BB709626C7FEC297BF373E80B907FB5429"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="F7466F88D110B0532CF4D551D17F2E10C98E5664"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="877811057B7CB1E6C892EB7D4023C5B4A237C7F2"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>17:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="CF27971CB3269D38E4E28190712B19D1388342F4"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="4302C31EF0C79C3DE55CDB543EBE146FCCF6032E"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="CAEF9EF73186C05C06F8D5B0CEE87700D62A6A4B"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="3BCC6AEB3E1ECA0B34B77FED7E80651BFC3DEAFE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>19:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="2CC235692582A6165E0FA1055E6DEC3D24009573"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="5258EF7A9C93E4E46F7C0C9ABE67569D8D2D19EB"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="0F9D681B2F0B270499AA42D1FDB3EFEF422EB306"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="1ADC53FF9A40183BE789370BFD82C3C431DA5FAA"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>22:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="E10DFC1C9FB16FBE5E5F1C738C2CBB3306219144"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="EBD9F6BC87E7948AA4FC0376132F48E5AA218F6A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="76C2E76A7ADE7D468F2D15666D7B4CBF9CFF3D81"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="D4C520B1CBDFBBF95153BCAF0DFE485E7EC4784A"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235234" NAT_ID="54038" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV WORLD WAR Z</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="247" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>14:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="5E6AB62338898C861B663C36490E853E88EF864D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="78F408CB17B2DD764A2C20A2D5EF6668A5B01C09"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="5D0C81C05223088D183FD56D26CAF3C41329DF8C"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DD3AEDBFEF2E63971299550DB5D75FBB50C1E6F1"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130703" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>19:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="954E1A58FBBAC853BC2F288F6CCA42B63D747EC8"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="C71C475FAAAA180A0047E0D1FA47FDFB6867F11A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="E4193F727060EC4F9A7A76E804D12CC266A0153D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="E3C021922879861879237C0E51344B0E9AF1735B"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130704" LATEST_FEATURE_DATE="20130704">
+                        <FEATURES>
+                            <FEATURE ID="247152" NAT_ID="55820" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="OV3D">
+                                <NAME>3D OV DESPICABLE ME 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>17:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="B955466B4DBDD4268FE46E06881DB2A41B174B09"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="AD11F3E72169657D4CFC492993C9E53D89CFEDBA"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="B86AF7D2985B0AED48DDE489B318EA564139626E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="78A6D8BEE49461011FE1C946302E7DA69C3F6A9E"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246991" NAT_ID="55796" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="OV3D">
+                                <NAME>3D OV MAN OF STEEL</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="3" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>17:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="C99726A832727C9DEA70122757DD76525DFA7563"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="E8C8040AA16E62C39BBACBB5E7DA3939987AA56E"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="A460AED62698495D69E62A1A11DDCF66C558B99E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="AB62A38D10E88258D5A42991AE111AFE0D7B23C1"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>22:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="460D91BEEA42D55C32F4A493E46AD06222B74277"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="C2CE408B8B969FEEF11CA66340615CAA544CC391"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="3F70EFA6A8DE660F5432F4F1187A1FE9C4E5F831"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="725A219327F32550CE7FA1CD244C3C2C72802455"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="248352" NAT_ID="55964" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="OV3D">
+                                <NAME>3D OV WORLD WAR Z</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="248" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>17:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="E655234D5D2BD00ED2A2AD80B5D6F6795EC796C3"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="DB4D75C0CF064B4E72750786682D58494F0C4A0B"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="0454335D1E2C960FDCD13E33118B823924A5245C"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="B69A99C4F5B93D65B7A9C232E8FD9AE8295E8FFF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>22:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="075A131A943BCC10671FF4BD8D88A0124F3EC4C7"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="792D6AD5F9F7C49FFF60B3A598BA829B7835761C"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="413BCF8AFD9478328BE6CD0FE0CD428F74636D5F"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="FF592C180875879EB2AA165BACE2DF56DF786531"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247320" NAT_ID="55839" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>AP NV MONSTERS UNIVERSITY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="1" TYPE="XAP12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>14:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="D30865C97CF4E183A31FB7AFCB5101C49C103FB6"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="169CC4488FE3DBF00723ECA914FD3E7C4A66C5BC"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="9D35831FAF3278C91C374557475E7A00974271AC"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="2895FBA14D9CA3D267CF748F2C510638CA1C2D42"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246914" NAT_ID="55789" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV EPIC</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="2" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="9DF5C0A40134AF82A62FE488816965AD9032A85D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="875B8FE4738594792F4BF0583C9A3B592E80F091"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="A330F05AC1CC6E8641083FA9BEBC12084DC38E27"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DCC3BF605C1EFBCD8967F975C8E0A8C97B4379CE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="240085" NAT_ID="54863" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV PIET PIRAAT EN HET ZEE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="D53E953AFEA6946031510EC6D4C33E24F15E689B"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="7A260D95FE75CAB41A1E5200A9A9D92882256281"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="1DC52C2D76C8953F61F0CF7BEC748D40A8DD9160"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="FFE5749DEC1571D934B531D3C4DE4154603753CE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>17:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="1071AFADEAD6EB803D2CA33284DF5368588CFAFF"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="5425EDC97BFF9137296F88980FBFD63DDF7B7824"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="66F4F199451D28494F8E4D1D054644688F39BC5D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="804F8043D3FD4F50FCD3233FF11E3705340E80EF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="233880" NAT_ID="53805" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV THE BROKEN CIRCLE BREA</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="DE927AA998E4769B0679879386207EF74DEC9203"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="7E33A20585334C7D27D844D24BB840F754906F63"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="70266AB3EE3F7AE032EDC6DE9214161943784108"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="1DC4BBFD5D6D7D9EBA276090ACC1C241A0B62A33"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247141" NAT_ID="55819" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>NV VERSCHRIKKELIJKE 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="883661E926B1238051ACEE588FE28DEDDB820B72"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="764F31690B65020B0BD6882A5651709C2CC503B9"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="5CF8DBE63063568FD0746E8CE2F3D0548BFD3365"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="95DF77E64954A1CCA99D86EBF6BBC1E0E8746136"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="8" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>16:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="81B0AD0CFEDD534DDDACA249FCE13FDF2F815265"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="20F59D83AF99CE15924ECC506B41AF57C80527BD"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="47A76710EDAA879A7D5B44B137019BB7656B999E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="A7F2788B41C35735E663E0E58851D7F523E2C6E0"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="244315" NAT_ID="55456" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG TROVA</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="183" OCCUPATION_PERCENTAGE="8" PERF="2" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>18:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="3920DA75BD899652FAADF7F8857909F7AFB51F9A"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="3920DA75BD899652FAADF7F8857909F7AFB51F9A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="51E33F6CFB9E032D6FB30ECD27AD929B218F6D27"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="3920DA75BD899652FAADF7F8857909F7AFB51F9A"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235202" NAT_ID="54032" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV AFTER EARTH</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="4" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>4</HALL>
+                                        <TIME>14:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="2D54D94ED6FD93F81940E4F3A82A4C158DD2E4B7"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="269AC7A0F54AFE416E4973969CB7A256C94837FE"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="D704B23F88BFF7798B5A5781A5A9CE3E4BFB5E45"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="97655C3F06B430F0ABD617C46C051F6508132FE2"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>20:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="04189918AAD93B212C80DCFA23EBA083159E0DDC"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="F410AEDE787E3BDCDC261F1A51BB38DE352CB376"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="08A9E50B5CA172358D21BE36AA4AE4B3849CE4CC"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="FECE67AE25EC01CB62CF91117F17D1316973734C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="223850" NAT_ID="52153" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV DESPICABLE ME 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>22:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="16D20ACAEFDBDC8C59F213C5F48B635855F8476C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="2427355E00A686B933EE935ABED4AF2D6A15E9C7"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="66572C15DE3B145BF7412EDBB67D2804ADCFA11C"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="48292DEBDFCEBDF412B7383F4FF51DF7F2BE8634"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235154" NAT_ID="54023" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV FAST AND FURIOUS 6</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="84" OCCUPATION_PERCENTAGE="3" PERF="3" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>19:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="EE22DF6F9C22786B6E66CC425080951F4DC31585"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="1351C9FF2E8226DFB2D3DF4BD676DCB08E63EE32"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="24F4DF24E9D1B928B8303341E856155F26058155"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="F667AAF1EBCDEEC95282CBD7FE09F71CFF67D370"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246838" NAT_ID="55781" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV MAN OF STEEL</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="3" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>13:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="8ADD21DB348F8FD17F4BA9A05261CD8467A1C608"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="8DD00DDFC708096C1D909E7C3CE0F17C7A29015A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="EA83F0A3DCD6098276DFF281B86864E5A4AA71F0"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="FCC97915781D4CFE7ECA5D00960CE474CBEFD48A"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="3" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>20:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="44B0FAAC356AEA751DA4D7B9683B8B82619A7E90"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="71719838D4420B5FC96388757C52E4EB8954B8D9"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="2A61F153AC294FC8ED02F35600B69489D42ED9C8"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="CF13250037FA7C42E8A050128C7F4FA796968C36"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="229463" NAT_ID="53071" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="4" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>4</HALL>
+                                        <TIME>20:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="6CD463070FB147FB914DB3E00125B0BF883C725C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="9BA07D0F7EC2CA461F87CA5A1D57D7E61EDF9810"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="3037B9B26C392ACCBD6104429242164354018A1E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="7411F7CBB9EEC3A0AA14BC6F0F83BA462CC212B6"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235170" NAT_ID="54026" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE HANGOVER 3</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="4" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>4</HALL>
+                                        <TIME>16:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="B4AAA82368E438D17DA750C141472580C4D3B3CE"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="566408F17E6A1F65F7D03EFB4C3368818B9B3A16"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="CC4496B309343280EED1893BD68122B5A4171DB5"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="F367A1DFFCD088716F5DE32982D3AF900025C0FA"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="2" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>22:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="F799A7B3759E8A5AE8849AA3F214EF7097EFD456"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="985CCDE28EC48EFDD2129BFF1C038B15AC327A1F"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="68312F11E6E3616F22BF3309CE6EFB26BFFFB524"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="D1F6F3F797791043E7B722D1CD644CC462BC8796"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246025" NAT_ID="55689" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE INTERNSHIP</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="EE4542029307B502E6D78FB0F2B528345FEE5466"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="51033F0595C5D471BC06DCA71956C867FC528CCE"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="C1BB98580FBAA398ACF0BE569F943D17CFC3AC7C"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="80E079F0F2C099EF75A2B87E7408D0B19D5D7B62"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="87" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="5" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>17:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="5BBE88A4278318E2002DF985A1A033B31144D7C8"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="1041DE823EF23E14B5DB6753CD00483F7224753B"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="6EA27C28FB761B2F2B7EA4DEE3ADF7496321617A"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="33FADBF79A0F2D926ADAA1D1A77590445D0150C1"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="250" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="6" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>19:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="1C0183CA74362C3E1C4F4F62D5A5F9662D44711E"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="BAEDC3AAA6D3164BD374B66C2AC9EBD5E664F802"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="FF691214D68F195D36AFDED2A529ED72A945F402"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="F86C30853669A1C96B3B8757EAD71117D76C2FF2"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="4" HALL_NAME="8" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>22:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="17B8CB75F2EFA62FDBB8E5D2E57A2FC2FD8B095C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="07B02D3AAFE450D0E0A5EBF6687CBE782D822D78"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="23F66E6187606DE42D8E8DBD81C0924844E939B9"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="48D2A195D01CAFAD9DA0A85E7F1EAEAF041B393C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="235234" NAT_ID="54038" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV WORLD WAR Z</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="7" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>14:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="9C5F10A4DE022BE8F2EA0B2327858F1DAA8AB18D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="5DD0C33092E03651F14A247F01782E8B9EE67C71"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="4E432E044180BCD4A3DE8D1E6BD11BCABAA2005C"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="AFE4650C608AA865EEC41245F3A7072043EBC646"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="8" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130704" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>19:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="D17B9FFA415066B57054723ADFF3425AFE29FCC9"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="CFFF52FABEA45EF78C0F112CA7681877CDDF8173"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="5215C2767FAC156566FA539EA0219AA030C2FB9D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="7CFFE341D0C6F27F92183D7D115BD48C8BFFE4E0"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130707" LATEST_FEATURE_DATE="20130707">
+                        <FEATURES>
+                            <FEATURE ID="245444" NAT_ID="55599" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="NV3D">
+                                <NAME>KIDS 3D NV EPIC</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="5" HALL_NAME="3" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>3</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="1439EDA2A430B47A98193A482AD74FEAEF45F67D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="918A81AC70FFDCB7BA90EF4A06F3546CC19799EE"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="05620D269B329D76278EF6B004E5AB76B472E396"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="B08E148B2118DB06201CB4929D577E892B374B6C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247013" NAT_ID="55798" RATING="0+" DIGITAL="1" THREED="1" KNT="ALL" FEATURE_EXTENSION="NV3D">
+                                <NAME>KIDS 3D NV VERSCHRIKKEL 2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="249" OCCUPATION_PERCENTAGE="0" PERF="5" HALL_NAME="7" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="3DB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>7</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1118" CODE="AAAN" HASH="6DB313F268AD90E314661BE2B24A9E254CC64E2B"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1018" CODE="ABAB" HASH="25C0B324265DCFCB08F0768F3363546E6EA13105"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="868" CODE="ADAB" HASH="C70959DEAE6492F3DF8D5328871E2AA1302BD521"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1018" CODE="ACAB" HASH="21537169A4EA348909BACBB826075FAC0F383FE3"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="245455" NAT_ID="55600" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>KIDS NV EPIC</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="5" HALL_NAME="6" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="EAC03D94C536677DE7809A5218CEA9DB04F39951"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="8D1C89F76253C7542D914AA32D83863DACBAFB9D"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="CDB5E12BDA64654609F3F5CD5D115E4A801FEBB5"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="E7A610438F0EECDE797629E6560094A74CE22B43"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="248297" NAT_ID="55959" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>KIDS NV MONSTERS UNIVERSI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="5" HALL_NAME="1" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="4AF1627C019D88398F7E6EB0AE22FEF9F16A8D4B"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="B9CECF8279F0C2838665A0EF6EBE4B5F1B7A6FC9"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="F9777758A4DD911280D8B2DB847DAC707441A861"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DA79F128FF0A140D2F079EC7D605F2D99844662B"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247192" NAT_ID="55823" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>KIDS NV PIET PIRAAT ZEEMO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="188" OCCUPATION_PERCENTAGE="6" PERF="5" HALL_NAME="2" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="2D30ACDAC9C0F3B9E61C24EA4A8392F872E02854"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="0871B71464C7D6B7F9F0D66D3D85269BDBBC82F1"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="1BFF1D31A8B6A9FAF2C3BCBDD4E40C8C634F5C5D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="E252FD4ABC7939B8A1C942A715CC63F0AD6B3D84"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="240861" NAT_ID="54984" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>KIDS NV THE CROODS</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="84" OCCUPATION_PERCENTAGE="3" PERF="5" HALL_NAME="5" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>5</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="5F3BDF6699E16F7810497E5832E35DDC745DA7D8"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="9E49D85CBA3C86038090F74F8EB23198CA0FE1F5"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="CC039F458B28B2F04AA0A3898B460E6BC7D7573E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="6A718881C6CF8EC5864D9E76E78D671138DF937C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247024" NAT_ID="55799" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>KIDS NV VERSCHRIKKELIJKE2</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="513" OCCUPATION_PERCENTAGE="0" PERF="5" HALL_NAME="8" TYPE="XKI12" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>11:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="B6F8139FB507B87CBEA164BE13CF5D2410979781"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="7C6A5470EF95F09399358D7A2185033BDB57A980"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="5E565F291AF042C51B49D68223CBCA60B0918FA7"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="5B8A60893B2F5831D7C1C316C3C69AA77D587E0F"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="244315" NAT_ID="55456" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG TROVA</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="190" OCCUPATION_PERCENTAGE="5" PERF="1" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130707" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="7F5D0978273170CAE13742BA932A981154270801"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="7F5D0978273170CAE13742BA932A981154270801"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="833ADC2121FF1A9C8148D45F9D63E6DF6DF27EFE"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="7F5D0978273170CAE13742BA932A981154270801"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130709" LATEST_FEATURE_DATE="20130709">
+                        <FEATURES>
+                            <FEATURE ID="247220" NAT_ID="55827" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>ZV NV THE CROODS</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="198" OCCUPATION_PERCENTAGE="1" PERF="1" HALL_NAME="2" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20130709" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="BA8ABDCC3B9B0D4D69D8C389D57626AACF02B9CA"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="BA8ABDCC3B9B0D4D69D8C389D57626AACF02B9CA"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="BA8ABDCC3B9B0D4D69D8C389D57626AACF02B9CA"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="BA8ABDCC3B9B0D4D69D8C389D57626AACF02B9CA"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130710" LATEST_FEATURE_DATE="20130710">
+                        <FEATURES>
+                            <FEATURE ID="228238" NAT_ID="52860" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV ARGO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130710" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="23DEB5BDF246BB3D9A1FC10121FB3BC2E472BF7E"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="3602B4DACC8F2B5F8E08B9A134922855C15F870D"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="F4D723CEF9F0F6FE2DABC015D5EEC75155BF7CAE"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="2F98DAD9901BE9A506FC0DA74B3B54ADFDAF37CC"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130711" LATEST_FEATURE_DATE="20130711">
+                        <FEATURES>
+                            <FEATURE ID="228238" NAT_ID="52860" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV ARGO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130711" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="5A56C481858D2027FF7581F9DF1BE917CB6A3B4B"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="9A34BFF52AADD621B94F870EC7C6028AD0B55CD5"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="6ECA1048FABC5813A5C94CF99A0087B1CB59F4E9"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="0E412E84A2F746BBCAEB88738BD44306D434398E"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246518" NAT_ID="55747" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>SENIORS NL BINGO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="454" OCCUPATION_PERCENTAGE="12" PERF="1" HALL_NAME="8" TYPE="XSR03" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="SENI" RESERVED="0" LOCKED="0" FEATURE_DATE="20130711" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="550" CODE="AAEJ" HASH="B28D6A28825A74F72C5930A8C5D4415C3B2D9DD1"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="550" CODE="AAEJ" HASH="B28D6A28825A74F72C5930A8C5D4415C3B2D9DD1"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="550" CODE="AAEJ" HASH="B28D6A28825A74F72C5930A8C5D4415C3B2D9DD1"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="550" CODE="AAEJ" HASH="B28D6A28825A74F72C5930A8C5D4415C3B2D9DD1"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130715" LATEST_FEATURE_DATE="20130715">
+                        <FEATURES>
+                            <FEATURE ID="228238" NAT_ID="52860" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV ARGO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130715" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="F60FBEEDD6F3F238382CA835502AF8F848D02EBA"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="D2920BE9A4FF26DE568FB97AC0510F989CFAE196"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="FFF9475FA945DA9CF32DEA4836293E595FB28E3D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="E3F37CA7056C4630C187943330DFC570BC5C60CB"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130716" LATEST_FEATURE_DATE="20130716">
+                        <FEATURES>
+                            <FEATURE ID="228238" NAT_ID="52860" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV ARGO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130716" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="31D3762DBCDC490676EEEEAF2B39E5820E52BA89"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="2D8AA8A4E009B68FD9FDDF8CC47863D7232BA6F6"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="23EE5C134628A7F4ABDD6F1EF848FFD151A37D00"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="FB0028E7FD06608189F9D7C5EA4A9FFECCE61881"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130717" LATEST_FEATURE_DATE="20130717">
+                        <FEATURES>
+                            <FEATURE ID="229188" NAT_ID="53019" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE IMPOSSIBLE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130717" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="599CC1283C4F95C039424BE406F8F499F79947B3"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="96D6D4D6F83ED6500AE465C0D531F41B7F322D3A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="60B49BB42CFD121027F9B79F6FAB2F9B3774EE86"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="6D3B73C35664F5714003404B504172A3A09688E7"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130718" LATEST_FEATURE_DATE="20130718">
+                        <FEATURES>
+                            <FEATURE ID="244246" NAT_ID="55450" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG ARMID</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="186" OCCUPATION_PERCENTAGE="7" PERF="2" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130718" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>18:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="9B96BAAB716D7E2298915B6A86A35C461F238AD6"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="9B96BAAB716D7E2298915B6A86A35C461F238AD6"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="EDC86B6A6CE79B741430CC07730C292FAEE5B428"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="9B96BAAB716D7E2298915B6A86A35C461F238AD6"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="229188" NAT_ID="53019" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE IMPOSSIBLE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130718" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="E21B73E51ECE188AE6F71EA4D670C94B2DB38492"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="97622FAE188F6B4B4B0592578A4C06B0C1B78D71"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="91892D791332EC43EEA40FA5FC5DF9880A486208"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="75000F6E8A3A092B43A613076753BBD642999F8A"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130721" LATEST_FEATURE_DATE="20130721">
+                        <FEATURES>
+                            <FEATURE ID="244246" NAT_ID="55450" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG ARMID</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="194" OCCUPATION_PERCENTAGE="3" PERF="1" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130721" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="902FF4A6184E971C4D30BC061AEC2722E6F0DF26"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="902FF4A6184E971C4D30BC061AEC2722E6F0DF26"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="FEDFE637346BD82FCBF0EA0C911D233276D8EF65"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="902FF4A6184E971C4D30BC061AEC2722E6F0DF26"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130722" LATEST_FEATURE_DATE="20130722">
+                        <FEATURES>
+                            <FEATURE ID="229188" NAT_ID="53019" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE IMPOSSIBLE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130722" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="CF60A5EF7EB2249D2B0CAB14272D486C30734C37"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="A3FB7141642BC63161F26EBDD868176A6E949320"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="859E7314B8C0134E81A7E51D386652A21EE09DA1"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="1B2CF985ADC495E4665F65C615BE3548E1F10ECB"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130723" LATEST_FEATURE_DATE="20130723">
+                        <FEATURES>
+                            <FEATURE ID="244606" NAT_ID="55493" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>MEN OV THE WOLVERINE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="8" TYPE="XEV05" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="MEN2" RESERVED="0" LOCKED="0" FEATURE_DATE="20130723" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>19:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="698" CODE="AACY" HASH="DBEB54A1B88168BC736418B512A3FE3CA4222726"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="698" CODE="AACY" HASH="DBEB54A1B88168BC736418B512A3FE3CA4222726"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="698" CODE="AACY" HASH="DBEB54A1B88168BC736418B512A3FE3CA4222726"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="698" CODE="AACY" HASH="DBEB54A1B88168BC736418B512A3FE3CA4222726"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="229188" NAT_ID="53019" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE IMPOSSIBLE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130723" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="79FDFF0FD3F251DB7090BDB4BAFB27A7B72612C3"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="1DBA30C964F4F2DFBF5C15F9BE85FA565E293765"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="B706865C33B0859C5F4F6F9229AE257120AB5AA2"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="D001CE00FCF3FFFEB85C6D4BFBCBC365585D8971"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130724" LATEST_FEATURE_DATE="20130724">
+                        <FEATURES>
+                            <FEATURE ID="220981" NAT_ID="51668" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV DJANGO UNCHAINED</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130724" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="B6F37D9A59E64F3081D63DC91136BD1891E257C8"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="DE79D80FAE5C0B6974F3601026D762119B0D14C3"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="809834BC773453338463170D1AA751306EFB340F"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DE7CEE55EFFC4423737EB523E68DED42D995F2C6"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130725" LATEST_FEATURE_DATE="20130725">
+                        <FEATURES>
+                            <FEATURE ID="220981" NAT_ID="51668" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV DJANGO UNCHAINED</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130725" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="139696AEB2A3663EBE1488595D70710144896F0C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="449FBF2BD8FCCC718436D2E0F52D5941FCDE6283"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="48CB678CA6367488240F4070834A58496B51C54D"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="95BC65BAA60E254A91556321D333760B96674CDE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130729" LATEST_FEATURE_DATE="20130729">
+                        <FEATURES>
+                            <FEATURE ID="220981" NAT_ID="51668" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV DJANGO UNCHAINED</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130729" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="09D390412ABE11282734DDD9B07EC8EE71A9B40C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="E73594482E359D5187750A2FC8B2B4AE7229A8B0"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="37BD3AE93D3EF4DE40CFDC2CC2B0EBAB7C50A1DD"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="C1E451ED424A9189749CFF28C9DA94EB192B5DFF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="248466" NAT_ID="55984" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>STUDENT AP OV NOW YOU SEE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="2" TYPE="XAP12" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130729" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>20:15</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="9D0BE612877FE3660F7F78479CCCBE45FC2DA75B"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="075FBEA3A06579D74B52549D6087BC46D33E7FEC"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="CCD99223F70A64E84CA51F0F7ED1A48C75EC217F"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="543F17FE45C23692913692F5E65CB7F14D8D1537"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130730" LATEST_FEATURE_DATE="20130730">
+                        <FEATURES>
+                            <FEATURE ID="220981" NAT_ID="51668" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV DJANGO UNCHAINED</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130730" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="82017E5CBF2E44EF0DDFF69216ED022EFEBB16D2"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="D292D9D3E58835B75A7BBD3250F0E1333EF9F99E"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="61C85D81304C38FA6DE0B8D4E3E1A3AFD06270A3"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DDB4625401821A6B1E60D7D633115D96E747CC1F"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130731" LATEST_FEATURE_DATE="20130731">
+                        <FEATURES>
+                            <FEATURE ID="236319" NAT_ID="54227" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV SILVER LININGS PLAYBOO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130731" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="649114A1895B38B94B7F5FAFA1AD749BEAE3F703"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="7A260962AEF2EDFDD1D7A8B98D0F50028BE538E7"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="EC3235AC9849BAB20A8262EB433AEA69B1FB0CA4"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="597A510A69780AD4E5483BB3422B8A491E4BAA4B"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130801" LATEST_FEATURE_DATE="20130801">
+                        <FEATURES>
+                            <FEATURE ID="244338" NAT_ID="55458" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG TRAVI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="192" OCCUPATION_PERCENTAGE="4" PERF="2" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130801" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>18:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="83E64B3386CFABB41F3D6F2AC10EAF7763E044AA"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="83E64B3386CFABB41F3D6F2AC10EAF7763E044AA"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="4A48EC3A52BF702B70A6FD660C37F71EE9F0249B"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="83E64B3386CFABB41F3D6F2AC10EAF7763E044AA"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="236319" NAT_ID="54227" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV SILVER LININGS PLAYBOO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130801" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="E629448B5DB9D143035DBA6CE1A042458EB0BE13"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="F727C3E6A724898209AC0DE05E4E09E2C0B4D57D"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="A752A81AB17997A3E736F648D080B083BFD89560"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DB14EC997AB54529AFBDB5377D1C6980840BE6DF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130804" LATEST_FEATURE_DATE="20130804">
+                        <FEATURES>
+                            <FEATURE ID="244338" NAT_ID="55458" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG TRAVI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="191" OCCUPATION_PERCENTAGE="4" PERF="1" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130804" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="55E4C3448E8D40CBCC6C1869DE46F371FC1FB26F"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="55E4C3448E8D40CBCC6C1869DE46F371FC1FB26F"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="6C1F878488F5A321582C9FAD3A55AD3AC63F63EA"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="55E4C3448E8D40CBCC6C1869DE46F371FC1FB26F"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130805" LATEST_FEATURE_DATE="20130805">
+                        <FEATURES>
+                            <FEATURE ID="236319" NAT_ID="54227" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV SILVER LININGS PLAYBOO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130805" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="9A803E896DE1B36EAEF4A79B3418678DD76D85E0"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="1A748F0F1EA3B8C02D1BAE5E59AF37CE34E4C14E"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="D71B56A1FDFC1535E08C45CF0B2F3AEF121F54C5"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="640DB894B34CBFD8E06B599BBBA35AED62BA4413"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130806" LATEST_FEATURE_DATE="20130806">
+                        <FEATURES>
+                            <FEATURE ID="236319" NAT_ID="54227" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV SILVER LININGS PLAYBOO</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130806" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="EAAAEBFF54D7903515955CB3B7720C8E93F9669C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="DF4A75714DD89BB9DAC5AA3D7D5B25456D4997F2"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="D74198ACBB81CCC9076A892AB269235DCFF9F812"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="E73E952257DAB3549744525F4389FFD818F7DF13"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130807" LATEST_FEATURE_DATE="20130807">
+                        <FEATURES>
+                            <FEATURE ID="247721" NAT_ID="55885" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>LADIES NL GIRL MOST LIKEL</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="8" TYPE="XLA06" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="LADY" RESERVED="0" LOCKED="0" FEATURE_DATE="20130807" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>19:00</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="698" CODE="AADV" HASH="D49EBB95940B410BC8E90923DBE1B1DD0F756CA3"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="698" CODE="AADV" HASH="D49EBB95940B410BC8E90923DBE1B1DD0F756CA3"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="698" CODE="AADV" HASH="D49EBB95940B410BC8E90923DBE1B1DD0F756CA3"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="698" CODE="AADV" HASH="D49EBB95940B410BC8E90923DBE1B1DD0F756CA3"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="220948" NAT_ID="51661" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LIFE OF PI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130807" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="79D927560B35C9753424C0B228C261253441F009"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="2F1F95FACDC43C2D1BD5C6EDACBC3FAEE1C8A79B"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="506EB984AD0820D99BF81C90C3F6CC47057520C4"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="572CFD95A7AB0736C547649735BC2D2601D7594C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130808" LATEST_FEATURE_DATE="20130808">
+                        <FEATURES>
+                            <FEATURE ID="220948" NAT_ID="51661" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LIFE OF PI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130808" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="D89C4E75406035846C5F52B6CC560A8DF4E066CC"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="773AFABEC22672F82FB0F91E1FDB6B3F7FA0C6C4"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="4F023626960D2B378571FEBEF5CDB22E4A181C81"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="70D45866962392E650679B72B59405A767F29EFD"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="246529" NAT_ID="55748" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>SENIORS NL QUARTET</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XSR03" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="SENI" RESERVED="0" LOCKED="0" FEATURE_DATE="20130808" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="550" CODE="AAEJ" HASH="C2F2EB194E6EDBE5DBA90018617DB42C8BA92CDD"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="550" CODE="AAEJ" HASH="C2F2EB194E6EDBE5DBA90018617DB42C8BA92CDD"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="550" CODE="AAEJ" HASH="C2F2EB194E6EDBE5DBA90018617DB42C8BA92CDD"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="550" CODE="AAEJ" HASH="C2F2EB194E6EDBE5DBA90018617DB42C8BA92CDD"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130812" LATEST_FEATURE_DATE="20130812">
+                        <FEATURES>
+                            <FEATURE ID="220948" NAT_ID="51661" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LIFE OF PI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130812" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="51F0E6E0D2F6815A745AF616A86362A9404C72AA"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="A254AEBE611E96F5137A645A018FB8C1D56272B6"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="1F0C7782364C3A1FE68E472359D80C9D4A03936E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="D91A40A75D3132158F5A801BEE11168BFD14BC41"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130813" LATEST_FEATURE_DATE="20130813">
+                        <FEATURES>
+                            <FEATURE ID="220948" NAT_ID="51661" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LIFE OF PI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130813" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="36A5C7976DB10A2C14E3926181F6A493F3031B3A"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="0F2FA25607A7BF57A64B3B1E5179A651CABF41BA"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="334E29DC10DA8DD2E237EC72F36CB2585A6A24DF"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DAC03587547A90B9C3C8225B3776428EB57815B4"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="247231" NAT_ID="55828" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>ZV OV LIFE OF PI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="2" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20130813" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="FE306F7EE8CC13BF5BBF04AB141822AF7EC1AA69"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="FE306F7EE8CC13BF5BBF04AB141822AF7EC1AA69"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="FE306F7EE8CC13BF5BBF04AB141822AF7EC1AA69"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="FE306F7EE8CC13BF5BBF04AB141822AF7EC1AA69"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20130813" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="844BEC09265BB0F1F56BD8F1A8F361531D5CA471"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="844BEC09265BB0F1F56BD8F1A8F361531D5CA471"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="844BEC09265BB0F1F56BD8F1A8F361531D5CA471"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="844BEC09265BB0F1F56BD8F1A8F361531D5CA471"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130814" LATEST_FEATURE_DATE="20130814">
+                        <FEATURES>
+                            <FEATURE ID="233606" NAT_ID="53762" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LINCOLN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130814" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="4899823E8B66DAF0C14DC2B0DE2F8733750AC05D"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="2EF9C605116FBBF904232DD746459B1BFBC89988"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="4FEBB330D964DEA91F8B87E375B304245B689FBB"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="EFE1BA596C23D4347BFD6B48593945464AD9E020"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130815" LATEST_FEATURE_DATE="20130815">
+                        <FEATURES>
+                            <FEATURE ID="244361" NAT_ID="55460" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG TURAN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="187" OCCUPATION_PERCENTAGE="6" PERF="2" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130815" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>18:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="AA506880C8D7FCAAFCAA8E893734B6EEB7EBD621"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="AA506880C8D7FCAAFCAA8E893734B6EEB7EBD621"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="DEA3EC88E8E9A07105FDF469BA05F8546CABAFEF"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="AA506880C8D7FCAAFCAA8E893734B6EEB7EBD621"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                            <FEATURE ID="233606" NAT_ID="53762" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LINCOLN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130815" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="2A10368C26F0E17CE6218381A9265D936DF449FC"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="CE11431CCF9647739AF8FD6F93A2C8BD1D43139F"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="FC1F8DB649E6F8378B78EE024D6696E44CC6BE0B"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="3E44A4F9CE81C3466A502EC0B79F1B98A3EAEF98"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130818" LATEST_FEATURE_DATE="20130818">
+                        <FEATURES>
+                            <FEATURE ID="244361" NAT_ID="55460" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG TURAN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="188" OCCUPATION_PERCENTAGE="6" PERF="1" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130818" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="0F243422B61996A568242CAB1929701A1FD3F184"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="0F243422B61996A568242CAB1929701A1FD3F184"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="946FAFE2259CC03F0E7921948A54C25C3066ABF0"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="0F243422B61996A568242CAB1929701A1FD3F184"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130819" LATEST_FEATURE_DATE="20130819">
+                        <FEATURES>
+                            <FEATURE ID="233606" NAT_ID="53762" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LINCOLN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130819" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="A54FFFAC1AF8121A5B45D7867BDC56EE27752AEA"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="754CA5B7FABFD0E7696751A6410E29C2BEAA1198"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="6EFFB97AAEEC9EEF43680E12EB3365492CEFB669"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="AB7C9AD76C78EEA5E9FDD9550A4960438E025BFE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130820" LATEST_FEATURE_DATE="20130820">
+                        <FEATURES>
+                            <FEATURE ID="233606" NAT_ID="53762" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV LINCOLN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130820" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="80544A5C476D3027ED0D484EEE026403A6185662"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="3DD1C5C9C1A9FD547B561C33913C33869988B0E9"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="C56123843A12CFF317A1E783393954B3BC4942A9"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="569F8166AED2CBA5C898A9FD8326309E1EFDC2F6"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130821" LATEST_FEATURE_DATE="20130821">
+                        <FEATURES>
+                            <FEATURE ID="229463" NAT_ID="53071" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130821" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="1F514A5B76AB4179B3A5D431F1796A164271397C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="1BAD2CDFEA596D83414274D0E720753AC30A9676"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="54D83BEB15D8CF42809B79178028795476EA8949"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="0D00865305E393EFE3DEFD25CA5C7A7E65293B76"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130822" LATEST_FEATURE_DATE="20130822">
+                        <FEATURES>
+                            <FEATURE ID="229463" NAT_ID="53071" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130822" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="8E91EB0F74FAA5F2ADF6A353927F14C4CD4B67CC"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="CCA30EA4FB0083887E6E2A29AB5AD87AC0C421B4"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="3FED152259F296D828FB731200B5C1791C435B0E"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="DD362C2E5D1EBAFA35A14310AB0C52C71F22D7BE"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130826" LATEST_FEATURE_DATE="20130826">
+                        <FEATURES>
+                            <FEATURE ID="229463" NAT_ID="53071" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130826" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="7EA199C0208C7CD250888274DCB0A278E0B1BFE4"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="9CF191849536C46BA845303D61F189E0C20577F7"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="588" CODE="ADBI" HASH="EC5B11B83480B9DC3C768A43C4835BA0D1F62AFC"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="D37D37C9BFBC057E819D7B3D35DABE5067036C2F"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130827" LATEST_FEATURE_DATE="20130827">
+                        <FEATURES>
+                            <FEATURE ID="229463" NAT_ID="53071" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="3" HALL_NAME="1" TYPE="XNRM" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="NORB" RESERVED="0" LOCKED="0" FEATURE_DATE="20130827" COMBI_TYPE="0">
+                                        <HALL>1</HALL>
+                                        <TIME>20:45</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="1FC08B100747F2447C69552DB9503AC51C31694A"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="456D207FDE8983E18E077A012589B396653BB708"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="D322C4A3149344CD6586B75D29127C85B389BDF9"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="B597664A8A1C4A2E525F3E8C5739CF472A584532"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130829" LATEST_FEATURE_DATE="20130829">
+                        <FEATURES>
+                            <FEATURE ID="244292" NAT_ID="55454" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG BARBI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="185" OCCUPATION_PERCENTAGE="7" PERF="2" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130829" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>18:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="5D5C485F39DBA885C1016AE43BC7F1C5D42A2051"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="5D5C485F39DBA885C1016AE43BC7F1C5D42A2051"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="82EB23B7F8F368EE43070465D6D4CDAC18E713E0"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="5D5C485F39DBA885C1016AE43BC7F1C5D42A2051"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130901" LATEST_FEATURE_DATE="20130901">
+                        <FEATURES>
+                            <FEATURE ID="244292" NAT_ID="55454" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVENGDIG">
+                                <NAME>OPERA SUMMER OV ENG BARBI</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="194" OCCUPATION_PERCENTAGE="3" PERF="1" HALL_NAME="2" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="SUMM" RESERVED="0" LOCKED="0" FEATURE_DATE="20130901" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="1300" CODE="BAAL" HASH="226E26F5109A9FBC3412C0646233AC73FE4FE698"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="1300" CODE="BAAL" HASH="226E26F5109A9FBC3412C0646233AC73FE4FE698"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1200" CODE="BDAC" HASH="0CC5A439239D7AE87F904F4A16E14E4CC40B1CF4"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="1300" CODE="BAAL" HASH="226E26F5109A9FBC3412C0646233AC73FE4FE698"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20130919" LATEST_FEATURE_DATE="20130919">
+                        <FEATURES>
+                            <FEATURE ID="246540" NAT_ID="55749" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>SENIORS NL GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XSR03" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="SENI" RESERVED="0" LOCKED="0" FEATURE_DATE="20130919" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="550" CODE="AAEJ" HASH="56BD6F5DEFC5F0632E60CF038AD6251F72D15B18"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="550" CODE="AAEJ" HASH="56BD6F5DEFC5F0632E60CF038AD6251F72D15B18"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="550" CODE="AAEJ" HASH="56BD6F5DEFC5F0632E60CF038AD6251F72D15B18"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="550" CODE="AAEJ" HASH="56BD6F5DEFC5F0632E60CF038AD6251F72D15B18"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131008" LATEST_FEATURE_DATE="20131008">
+                        <FEATURES>
+                            <FEATURE ID="247209" NAT_ID="55826" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="VFNLDIG">
+                                <NAME>ZV VF AMOUR</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="2" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20131008" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="3C50B40166BE0C6D1CD128FBF71F65F44A6F04A1"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="3C50B40166BE0C6D1CD128FBF71F65F44A6F04A1"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="3C50B40166BE0C6D1CD128FBF71F65F44A6F04A1"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="3C50B40166BE0C6D1CD128FBF71F65F44A6F04A1"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20131008" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="1C277DAE30DDB9961710DD50523B846026FFBB1A"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="1C277DAE30DDB9961710DD50523B846026FFBB1A"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="1C277DAE30DDB9961710DD50523B846026FFBB1A"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="1C277DAE30DDB9961710DD50523B846026FFBB1A"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131010" LATEST_FEATURE_DATE="20131010">
+                        <FEATURES>
+                            <FEATURE ID="246562" NAT_ID="55751" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>SENIORS NL HET VONNIS</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XSR03" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="SENI" RESERVED="0" LOCKED="0" FEATURE_DATE="20131010" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="550" CODE="AAEJ" HASH="3E6E5DAD58DC0857C1CA62E0920EB948D16B44AC"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="550" CODE="AAEJ" HASH="3E6E5DAD58DC0857C1CA62E0920EB948D16B44AC"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="550" CODE="AAEJ" HASH="3E6E5DAD58DC0857C1CA62E0920EB948D16B44AC"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="550" CODE="AAEJ" HASH="3E6E5DAD58DC0857C1CA62E0920EB948D16B44AC"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131020" LATEST_FEATURE_DATE="20131020">
+                        <FEATURES>
+                            <FEATURE ID="242765" NAT_ID="55248" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>BALLET OV SPARTACUS</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="6" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="OPER" RESERVED="0" LOCKED="0" FEATURE_DATE="20131020" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>16:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="2100" CODE="AABF" HASH="CA26901CC9919FB903DDFF5B85C01F8CCB31FC0F"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="2100" CODE="AABF" HASH="CA26901CC9919FB903DDFF5B85C01F8CCB31FC0F"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1900" CODE="ADAF" HASH="9F7A89C878EC2F91B6153C5B60439FF184EA2B3F"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="2100" CODE="AABF" HASH="CA26901CC9919FB903DDFF5B85C01F8CCB31FC0F"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131112" LATEST_FEATURE_DATE="20131112">
+                        <FEATURES>
+                            <FEATURE ID="247253" NAT_ID="55830" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>ZV OV LINCOLN</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="2" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20131112" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="DB7730E171E8D07194B3054107BC22ADF1B1467C"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="DB7730E171E8D07194B3054107BC22ADF1B1467C"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="DB7730E171E8D07194B3054107BC22ADF1B1467C"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="DB7730E171E8D07194B3054107BC22ADF1B1467C"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20131112" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="5DF3E1F379BF42C0BD447CCA831FD62A5ED2BBB6"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="5DF3E1F379BF42C0BD447CCA831FD62A5ED2BBB6"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="5DF3E1F379BF42C0BD447CCA831FD62A5ED2BBB6"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="5DF3E1F379BF42C0BD447CCA831FD62A5ED2BBB6"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131114" LATEST_FEATURE_DATE="20131114">
+                        <FEATURES>
+                            <FEATURE ID="246584" NAT_ID="55753" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="NVDIG">
+                                <NAME>SENIORS NL MARINA</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XSR03" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="SENI" RESERVED="0" LOCKED="0" FEATURE_DATE="20131114" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="550" CODE="AAEJ" HASH="C33103BB6DBD702DC3975693A34DDA0A35A4BC08"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="550" CODE="AAEJ" HASH="C33103BB6DBD702DC3975693A34DDA0A35A4BC08"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="550" CODE="AAEJ" HASH="C33103BB6DBD702DC3975693A34DDA0A35A4BC08"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="550" CODE="AAEJ" HASH="C33103BB6DBD702DC3975693A34DDA0A35A4BC08"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131117" LATEST_FEATURE_DATE="20131117">
+                        <FEATURES>
+                            <FEATURE ID="242776" NAT_ID="55249" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>BALLET OV LE CORSAIRE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="6" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="OPER" RESERVED="0" LOCKED="0" FEATURE_DATE="20131117" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>16:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="2100" CODE="AABF" HASH="DD777D310C993B3724CC4BC2FF6F57DEE6005BAC"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="2100" CODE="AABF" HASH="DD777D310C993B3724CC4BC2FF6F57DEE6005BAC"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1900" CODE="ADAF" HASH="50FA07EB9AAF09ED6FA9B3B0ED2A19D93F61CB43"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="2100" CODE="AABF" HASH="DD777D310C993B3724CC4BC2FF6F57DEE6005BAC"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131210" LATEST_FEATURE_DATE="20131210">
+                        <FEATURES>
+                            <FEATURE ID="247242" NAT_ID="55829" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>ZV OV THE GREAT GATSBY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="200" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="2" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20131210" COMBI_TYPE="0">
+                                        <HALL>2</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="F6BEAA40EDCB7E17EE9265B4B13AFF8FB83868E4"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="F6BEAA40EDCB7E17EE9265B4B13AFF8FB83868E4"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="F6BEAA40EDCB7E17EE9265B4B13AFF8FB83868E4"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="F6BEAA40EDCB7E17EE9265B4B13AFF8FB83868E4"/>
+                                        </PRICES>
+                                    </SHOW>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XEV00" SEATS_NUMBERED="0" PAUZE="0" STRATEGY="ZILV" RESERVED="0" LOCKED="0" FEATURE_DATE="20131210" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="500" CODE="AJ05" HASH="D7C37A2F77C198E5CA55881CE674D1D2711C3960"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="500" CODE="AJ05" HASH="D7C37A2F77C198E5CA55881CE674D1D2711C3960"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="500" CODE="AJ05" HASH="D7C37A2F77C198E5CA55881CE674D1D2711C3960"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="500" CODE="AJ05" HASH="D7C37A2F77C198E5CA55881CE674D1D2711C3960"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131212" LATEST_FEATURE_DATE="20131212">
+                        <FEATURES>
+                            <FEATURE ID="246606" NAT_ID="55755" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>SENIORS NL DIANA</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="518" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="8" TYPE="XSR03" SEATS_NUMBERED="1" PAUZE="0" STRATEGY="SENI" RESERVED="0" LOCKED="0" FEATURE_DATE="20131212" COMBI_TYPE="0">
+                                        <HALL>8</HALL>
+                                        <TIME>14:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="550" CODE="AAEJ" HASH="59AF7DB00D1FCE25D6A7913FEE94FE32F09819FF"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="550" CODE="AAEJ" HASH="59AF7DB00D1FCE25D6A7913FEE94FE32F09819FF"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="550" CODE="AAEJ" HASH="59AF7DB00D1FCE25D6A7913FEE94FE32F09819FF"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="550" CODE="AAEJ" HASH="59AF7DB00D1FCE25D6A7913FEE94FE32F09819FF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20131222" LATEST_FEATURE_DATE="20131222">
+                        <FEATURES>
+                            <FEATURE ID="242787" NAT_ID="55250" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>BALLET OV SLEEPING BEAUTY</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="6" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="OPER" RESERVED="0" LOCKED="0" FEATURE_DATE="20131222" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>16:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="2100" CODE="AABF" HASH="00D39B767075E3C94191312FB2983059788FB0EF"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="2100" CODE="AABF" HASH="00D39B767075E3C94191312FB2983059788FB0EF"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1900" CODE="ADAF" HASH="D44068777F70110F136720FB3522BD6F2D118DA2"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="2100" CODE="AABF" HASH="00D39B767075E3C94191312FB2983059788FB0EF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20140119" LATEST_FEATURE_DATE="20140119">
+                        <FEATURES>
+                            <FEATURE ID="242798" NAT_ID="55251" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>BALLET OV JEWELS</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="OPER" RESERVED="0" LOCKED="0" FEATURE_DATE="20140119" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>15:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="2100" CODE="AABF" HASH="E0B7835DB7721FFBE5E4BDF234B609BF728CFF19"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="2100" CODE="AABF" HASH="E0B7835DB7721FFBE5E4BDF234B609BF728CFF19"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1900" CODE="ADAF" HASH="3720FEECF025855D3D84A4A91A66FCCB20FC20EA"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="2100" CODE="AABF" HASH="E0B7835DB7721FFBE5E4BDF234B609BF728CFF19"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20140202" LATEST_FEATURE_DATE="20140202">
+                        <FEATURES>
+                            <FEATURE ID="242809" NAT_ID="55252" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>BALLET OV LOST ILLUSIONS</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="1" HALL_NAME="6" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="OPER" RESERVED="0" LOCKED="0" FEATURE_DATE="20140202" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>15:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="2100" CODE="AABF" HASH="F0A62CA39DC1DC2408D899905CED348E24C085DF"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="2100" CODE="AABF" HASH="F0A62CA39DC1DC2408D899905CED348E24C085DF"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1900" CODE="ADAF" HASH="81F4ABC8DB37D5E6CAB8F6B4207665CC2876B870"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="2100" CODE="AABF" HASH="F0A62CA39DC1DC2408D899905CED348E24C085DF"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                    <DAY DATE="20140330" LATEST_FEATURE_DATE="20140330">
+                        <FEATURES>
+                            <FEATURE ID="242820" NAT_ID="55253" RATING="0+" DIGITAL="1" THREED="0" KNT="ALL" FEATURE_EXTENSION="OVDIG">
+                                <NAME>BALLET OV THE GOLDEN AGE</NAME>
+                                <SHOWS>
+                                    <SHOW MAX_CAPACITY="252" OCCUPATION_PERCENTAGE="0" PERF="2" HALL_NAME="6" TYPE="XAC00" SEATS_NUMBERED="1" PAUZE="10" STRATEGY="OPER" RESERVED="0" LOCKED="0" FEATURE_DATE="20140330" COMBI_TYPE="0">
+                                        <HALL>6</HALL>
+                                        <TIME>16:30</TIME>
+                                        <PRICES>
+                                            <PRICE xmlns="" NMBR="1" VALUE="2100" CODE="AABF" HASH="0E37FC223DC4F56CD2750B34FD021E39D1E05B62"/>
+                                            <PRICE xmlns="" NMBR="2" VALUE="2100" CODE="AABF" HASH="0E37FC223DC4F56CD2750B34FD021E39D1E05B62"/>
+                                            <PRICE xmlns="" NMBR="3" VALUE="1900" CODE="ADAF" HASH="F142949EA7F05F2247921F79B0A637C92BD69948"/>
+                                            <PRICE xmlns="" NMBR="4" VALUE="2100" CODE="AABF" HASH="0E37FC223DC4F56CD2750B34FD021E39D1E05B62"/>
+                                        </PRICES>
+                                    </SHOW>
+                                </SHOWS>
+                            </FEATURE>
+                        </FEATURES>
+                    </DAY>
+                </SCHEDULE_DAYS>
+            </COMPLEX_SCHEDULE>
+
+
+
+
+
+
+
+            <COMPLEX_ALLOWED_PAYWAYS>
+                <PAY_WAY>
+                    <PAY_WAY_ID>0</PAY_WAY_ID>
+                    <PAY_WAY_NAME/>
+                </PAY_WAY>
+                <PAY_WAY>
+                    <PAY_WAY_ID>1</PAY_WAY_ID>
+                    <PAY_WAY_NAME>VISA</PAY_WAY_NAME>
+                </PAY_WAY>
+                <PAY_WAY>
+                    <PAY_WAY_ID>12</PAY_WAY_ID>
+                    <PAY_WAY_NAME>iDEAL</PAY_WAY_NAME>
+                </PAY_WAY>
+                <PAY_WAY>
+                    <PAY_WAY_ID>2</PAY_WAY_ID>
+                    <PAY_WAY_NAME>MASTERCARD</PAY_WAY_NAME>
+                </PAY_WAY>
+                <PAY_WAY>
+                    <PAY_WAY_ID>9</PAY_WAY_ID>
+                    <PAY_WAY_NAME>AMERICAN EXPRESS</PAY_WAY_NAME>
+                </PAY_WAY>
+                <PAY_WAY>
+                    <PAY_WAY_ID>10</PAY_WAY_ID>
+                    <PAY_WAY_NAME>MAESTRO</PAY_WAY_NAME>
+                </PAY_WAY>
+            </COMPLEX_ALLOWED_PAYWAYS>
+            <WS_OFFSET_DATE>20130702</WS_OFFSET_DATE>
+            <WS_OFFSET_TIME>23:39</WS_OFFSET_TIME>
+            <WS_MAX_TICKETS>10</WS_MAX_TICKETS>
+            <TIME>13:45</TIME>
+            <TYPE>XNRM</TYPE>
+            <SEATS>1</SEATS>
+            <PERF_NBR>1</PERF_NBR>
+            <STRATEGY>NORB</STRATEGY>
+            <PRICES>
+                <PRICE xmlns="" NMBR="1" VALUE="918" CODE="AAAM" HASH="405760F5A2173BEBBD4312592BB541261FB0A0C1"/>
+                <PRICE xmlns="" NMBR="2" VALUE="818" CODE="ABAA" HASH="549E955E95A9DBFE09DBCFAF8437B3D7ED323F35"/>
+                <PRICE xmlns="" NMBR="3" VALUE="668" CODE="ADAA" HASH="E577AE6D7680C4D2733643B6A09F6AEDA20F564B"/>
+                <PRICE xmlns="" NMBR="4" VALUE="818" CODE="ACAA" HASH="4D5057A77BF7226D4803B4AA9864B686A43ABF1B"/>
+            </PRICES>
+            <HALL_NAME>3</HALL_NAME>
+            <HALL>3</HALL>
+            <LOCKED>0</LOCKED>
+            <RESERVED>0</RESERVED>
+            <COMBI_TYPE>0</COMBI_TYPE>
+            <FEATURE_DATE>20130703</FEATURE_DATE>
+            <NAME>OV MAN OF STEEL</NAME>
+            <DIGITAL>1</DIGITAL>
+            <THREED>0</THREED>
+            <RATING>0+</RATING>
+            <FEATURE_ID>246838</FEATURE_ID>
+        </QUICK_START>
+    </WS_RESPONSE>
+</WS_WWW_NTA_TS_RESPONSE>

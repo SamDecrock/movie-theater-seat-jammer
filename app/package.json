@@ -1,0 +1,17 @@
+{
+  "name": "kinepolis-jammer",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0rc4",
+    "stylus": "*",
+    "jade": "~0.28.1",
+    "soap": "~0.2.7",
+    "step": "0.0.5",
+    "xml2js": "~0.2.8",
+    "xmlbuilder": "~0.4.2",
+    "socket.io": "~0.9.16"
+  }
+}

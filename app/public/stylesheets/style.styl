@@ -1,0 +1,59 @@
+*
+	font-size 10px
+
+
+.loadfield
+	margin-top 20px
+
+	#url
+		width 100%
+
+
+.data
+	.key
+		font-weight bold
+	.value
+		font-weight normal
+
+
+#seats
+	position relative
+
+	.seat
+		position absolute
+		width 24px
+		height 24px
+		background-color #5EB95E
+		border-radius 1px
+		border 1px solid black
+		cursor pointer
+
+	.st1 //gewone
+		background-color #5EB95E
+
+	.st2 //handicapten
+		background-color #4BB1CF
+		width 18px
+		height 18px
+		border-radius 18px
+		z-index 22
+
+	.st3 //love seats
+		background-color #4BB1CF
+		width 36px
+
+	.stat5 // echt gereserveerd
+		background-color #870000
+		cursor default
+
+	.stat2 // aangevraagd door anderen
+		background-color #CF3838
+		cursor default
+
+	.ownrequests // zelf aangevraagd
+		background-color yellow
+		cursor pointer
+
+	.seat:hover, .reserve //nu aanvragen
+		background-color #FAA732
+

@@ -1,0 +1,13 @@
+{
+  "name": "untitled",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "soap": "~0.2.7",
+    "step": "0.0.5",
+    "xml2js": "~0.2.8",
+    "xmlbuilder": "~0.4.2"
+  }
+}
